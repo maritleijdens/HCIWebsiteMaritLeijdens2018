@@ -1,0 +1,23 @@
+* {
+	font-family: Helvetica;
+}
+
+
+
+/* ------------ HEADERS ------------ */
+
+h1 {
+	text-align: center;
+
+}
+
+h2 {
+
+}
+
+/* ------------ INTRODUCTION ------------ */
+
+#introduction {
+
+	margin-top: 50px;
+}
